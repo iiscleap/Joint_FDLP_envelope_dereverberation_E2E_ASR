@@ -1,0 +1,1 @@
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_dt/data/near_test/primary_microphone/si_dt/c49/c49c020a_ch1.wav /home/anirudhs/tmp/anu/REVERB_MCSB_GN_3DCNN/feat_dir/REVERB_et/SimData_et_for_1ch_far_room1_A/newfea/c30c0201_ch1.fea 16000

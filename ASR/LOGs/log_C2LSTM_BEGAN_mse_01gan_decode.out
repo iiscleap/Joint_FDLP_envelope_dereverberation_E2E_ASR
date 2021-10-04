@@ -1,0 +1,100 @@
+Stage 2 Completed
+dictionary: data/lang_1char/Train_cleaned_tr90_units.txt
+Stage 3 Completed
+Stage 4 completed
+Stage 5 completed
+index, memory.used [MiB] 0, 4819 MiB 1, 0 MiB
+using gpu 1
+Stage 6 completed
+stage 7: Decoding
+Your job 698136 ("asr.sh") has been submitted
+Your job 698137 ("asr.sh") has been submitted
+Your job 698138 ("asr.sh") has been submitted
+Your job 698139 ("asr.sh") has been submitted
+Your job 698140 ("asr.sh") has been submitted
+Your job 698141 ("asr.sh") has been submitted
+Your job 698142 ("asr.sh") has been submitted
+Your job 698143 ("asr.sh") has been submitted
+Your job 698144 ("asr.sh") has been submitted
+Your job 698145 ("asr.sh") has been submitted
+Your job 698146 ("asr.sh") has been submitted
+Your job 698147 ("asr.sh") has been submitted
+Your job 698148 ("asr.sh") has been submitted
+Your job 698149 ("asr.sh") has been submitted
+Your job 698150 ("asr.sh") has been submitted
+Your job 698151 ("asr.sh") has been submitted
+Your job 698152 ("asr.sh") has been submitted
+Your job 698153 ("asr.sh") has been submitted
+Your job 698154 ("asr.sh") has been submitted
+Your job 698155 ("asr.sh") has been submitted
+Stage 2 Completed
+dictionary: data/lang_1char/Train_cleaned_tr90_units.txt
+Stage 3 Completed
+Stage 4 completed
+Stage 5 completed
+index, memory.used [MiB] 0, 4819 MiB 1, 0 MiB
+using gpu 1
+Stage 6 completed
+stage 7: Decoding
+Your job 698157 ("asr.sh") has been submitted
+Your job 698158 ("asr.sh") has been submitted
+Your job 698159 ("asr.sh") has been submitted
+Your job 698160 ("asr.sh") has been submitted
+Your job 698161 ("asr.sh") has been submitted
+Your job 698162 ("asr.sh") has been submitted
+Your job 698163 ("asr.sh") has been submitted
+Your job 698164 ("asr.sh") has been submitted
+Your job 698165 ("asr.sh") has been submitted
+Your job 698166 ("asr.sh") has been submitted
+Your job 698167 ("asr.sh") has been submitted
+Your job 698168 ("asr.sh") has been submitted
+Your job 698169 ("asr.sh") has been submitted
+Your job 698170 ("asr.sh") has been submitted
+Your job 698171 ("asr.sh") has been submitted
+Your job 698172 ("asr.sh") has been submitted
+Your job 698173 ("asr.sh") has been submitted
+Your job 698174 ("asr.sh") has been submitted
+Your job 698175 ("asr.sh") has been submitted
+Your job 698176 ("asr.sh") has been submitted
+Your job 698177 ("asr.sh") has been submitted
+Your job 698178 ("asr.sh") has been submitted
+Your job 698179 ("asr.sh") has been submitted
+Your job 698180 ("asr.sh") has been submitted
+Your job 698181 ("asr.sh") has been submitted
+Your job 698182 ("asr.sh") has been submitted
+Your job 698183 ("asr.sh") has been submitted
+Your job 698184 ("asr.sh") has been submitted
+Your job 698185 ("asr.sh") has been submitted
+Your job 698186 ("asr.sh") has been submitted
+Your job 698187 ("asr.sh") has been submitted
+Your job 698188 ("asr.sh") has been submitted
+Your job 698189 ("asr.sh") has been submitted
+Your job 698190 ("asr.sh") has been submitted
+Your job 698191 ("asr.sh") has been submitted
+Your job 698192 ("asr.sh") has been submitted
+Your job 698193 ("asr.sh") has been submitted
+Your job 698194 ("asr.sh") has been submitted
+Your job 698195 ("asr.sh") has been submitted
+Your job 698196 ("asr.sh") has been submitted
+Your job 698197 ("asr.sh") has been submitted
+Your job 698198 ("asr.sh") has been submitted
+Your job 698199 ("asr.sh") has been submitted
+Your job 698200 ("asr.sh") has been submitted
+Your job 698201 ("asr.sh") has been submitted
+Your job 698202 ("asr.sh") has been submitted
+Your job 698203 ("asr.sh") has been submitted
+Your job 698204 ("asr.sh") has been submitted
+Your job 698205 ("asr.sh") has been submitted
+Your job 698206 ("asr.sh") has been submitted
+Your job 698207 ("asr.sh") has been submitted
+Your job 698208 ("asr.sh") has been submitted
+Your job 698209 ("asr.sh") has been submitted
+Your job 698210 ("asr.sh") has been submitted
+Your job 698211 ("asr.sh") has been submitted
+Your job 698212 ("asr.sh") has been submitted
+Your job 698213 ("asr.sh") has been submitted
+Your job 698214 ("asr.sh") has been submitted
+Your job 698215 ("asr.sh") has been submitted
+Your job 698216 ("asr.sh") has been submitted
+Finished
+DECODING COMPLETED

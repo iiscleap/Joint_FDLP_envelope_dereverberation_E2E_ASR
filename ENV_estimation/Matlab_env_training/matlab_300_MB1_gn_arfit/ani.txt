@@ -1,0 +1,1 @@
+/home/data2/multiChannel/ANURENJAN/CHIME3/WPE_GEV_BF_AUDIO/tr05_ped_simu/011_011C0201_PED.wav /home/data2/multiChannel/ANURENJAN/CHIME3/ASR/Baseline/FDLP_feats_MB1_gn/tr05_simu_beamformit_5mics/newfea/011_011C0201_PED.fea 16000

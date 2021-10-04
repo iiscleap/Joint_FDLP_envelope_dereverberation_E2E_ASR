@@ -1,0 +1,6 @@
+2021-07-28 09:42:09,157 (splitjson:40) INFO: /state/partition1/softwares/ESPNET/espnet/tools/anaconda/envs/espnet/bin/python3 /state/partition1/softwares/ESPNET/espnet/utils/splitjson.py --parts 100 dump_FDLP/Evaluation_Data_wpe/deltafalse/data.json
+2021-07-28 09:42:09,431 (splitjson:52) INFO: number of utterances = 4600
+2021-07-28 09:46:36,820 (splitjson:40) INFO: /state/partition1/softwares/ESPNET/espnet/tools/anaconda/envs/espnet/bin/python3 /state/partition1/softwares/ESPNET/espnet/utils/splitjson.py --parts 30 dump_FDLP/Evaluation_Data_wpe/deltafalse/data.json
+2021-07-28 09:46:36,885 (splitjson:52) INFO: number of utterances = 4600
+2021-07-28 09:49:09,546 (splitjson:40) INFO: /state/partition1/softwares/ESPNET/espnet/tools/anaconda/envs/espnet/bin/python3 /state/partition1/softwares/ESPNET/espnet/utils/splitjson.py --parts 30 dump_FDLP/Development_Data_wpe/deltafalse/data.json
+2021-07-28 09:49:09,793 (splitjson:52) INFO: number of utterances = 4318

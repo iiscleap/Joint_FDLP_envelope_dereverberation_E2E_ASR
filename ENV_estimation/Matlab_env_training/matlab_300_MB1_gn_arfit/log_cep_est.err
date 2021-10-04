@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/steps_torch_env/estimate_env.py", line 20, in <module>
+    import torch
+  File "/state/partition1/softwares/Miniconda3/lib/python2.7/site-packages/torch/__init__.py", line 80, in <module>
+    from torch._C import *
+ImportError: /lib64/libc.so.6: version `GLIBC_2.14' not found (required by /state/partition1/softwares/Miniconda3/lib/python2.7/site-packages/torch/_C.so)

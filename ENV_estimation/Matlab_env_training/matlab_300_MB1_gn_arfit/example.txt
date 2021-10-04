@@ -1,0 +1,3 @@
+/home/madhumitah/REVERB_keras_FDLP/data/REVERB_tr_cut/allChannelData/c02c0202_ch1.wav /home/anirudhs/tmp/anu/c02c0202_ch1.fea 16000
+/home/madhumitah/REVERB_keras_FDLP/data/REVERB_tr_cut/allChannelData/c02c0203_ch1.wav /home/anirudhs/tmp/anu/c02c0203_ch1.fea 16000
+/home/madhumitah/REVERB_keras_FDLP/data/REVERB_tr_cut/allChannelData/c02c0204_ch1.wav /home/anirudhs/tmp/anu/c02c0204_ch1.wav 16000

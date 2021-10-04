@@ -1,0 +1,17 @@
+
+
+source /home/sriram/MatlabRuntime_R2015b.sh
+
+list=$1
+feaDir=`dirname $list`
+
+cnt=`cat $list | wc -l | awk '{print int ($1 / 20) +1 }'`
+echo $cnt $list
+split -l $cnt $list ${feaDir}/segments_
+
+
+for file in `ls ${feaDir}/segments_*`
+do
+  echo $file
+  /home/sriram/speech/reverb/Matlab/vAR_pole375_K3_2s_specgram/process_list $file &
+done 

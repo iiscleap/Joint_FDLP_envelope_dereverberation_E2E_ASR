@@ -1,0 +1,1 @@
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_dt/data/cln_test/primary_microphone/si_dt/c3c/c3cc020a.wav /abc 16000

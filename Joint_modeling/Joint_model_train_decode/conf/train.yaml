@@ -1,0 +1,51 @@
+# network architecture
+# encoder related
+elayers: 12
+eunits: 2048
+#enc-init: /home/rohitk/Workspace/E2E/espnet/egs/reverb/asr5/exp/tr_simu_8ch_si284_pytorch_EXP0_ENV_CLEAN_BASELINE_MODEL_ASR_TRANS/results/model.acc.best
+#enc-init: /home/rohitk/Workspace/E2E/espnet/egs/reverb/asr5/exp/tr_simu_8ch_si284_pytorch_C2LSTM_best_model_2sec_EXP_PHASE4_pretrain_mse8_began_2/results/model.acc.best
+enc-init: /home/rohitk/Workspace/E2E/espnet/egs/reverb/asr5/exp/tr_simu_8ch_si284_pytorch_C4NN_2LSTM_2SEC_PHASE3_mse_1began_bse32_pretrain/results/model.acc.best
+enc-init-mods: 'encoder.'
+# decoder related
+dlayers: 6
+dunits: 2048
+# attention related
+adim: 256
+aheads: 4
+#dec-init: /home/rohitk/Workspace/E2E/espnet/egs/reverb/asr5/exp/tr_simu_8ch_si284_pytorch_EXP0_ENV_CLEAN_BASELINE_MODEL_ASR_TRANS/results/model.acc.best
+#dec-init: /home/rohitk/Workspace/E2E/espnet/egs/reverb/asr5/exp/tr_simu_8ch_si284_pytorch_C2LSTM_best_model_2sec_EXP_PHASE4_pretrain_mse8_began_2/results/model.acc.best
+dec-init: /home/rohitk/Workspace/E2E/espnet/egs/reverb/asr5/exp/tr_simu_8ch_si284_pytorch_C4NN_2LSTM_2SEC_PHASE3_mse_1began_bse32_pretrain/results/model.acc.best
+dec-init-mods: 'decoder.'
+# hybrid CTC/attention
+mtlalpha: 0.3
+
+# label smoothing
+lsm-weight: 0.1
+
+# minibatch related
+batch-size: 32
+maxlen-in: 512  # if input length  > maxlen-in, batchsize is automatically reduced
+maxlen-out: 150 # if output length > maxlen-out, batchsize is automatically reduced
+
+# optimization related
+sortagrad: 0 # Feed samples from shortest to longest ; -1: enabled for all epochs, 0: disabled, other: enabled for 'other' epochs
+opt: noam
+accum-grad: 2
+grad-clip: 5
+patience: 2 
+epochs: 100 
+dropout-rate: 0.1
+
+# transformer specific setting
+backend: pytorch
+model-module: "espnet.nets.pytorch_backend.e2e_asr_transformer:E2E"
+transformer-input-layer: conv2d     # encoder architecture type
+transformer-lr: 10.0
+transformer-warmup-steps: 25000
+transformer-attn-dropout-rate: 0.0
+transformer-length-normalized-loss: false
+transformer-init: pytorch
+
+# Report CER & WER
+report-cer: true
+report-wer: true

@@ -1,0 +1,10 @@
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0202_ch1.wav c2dc0202 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0204_ch1.wav c2dc0204 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0205_ch1.wav c2dc0205 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0206_ch1.wav c2dc0206 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0207_ch1.wav c2dc0207 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0208_ch1.wav c2dc0208 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc0209_ch1.wav c2dc0209 ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc020a_ch1.wav c2dc020a ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc020b_ch1.wav c2dc020b ab
+/run/user/1005/gvfs/sftp:host=10.64.18.30,user=anirudhs/home/data/REVERB/REVERB_WSJCAM0_tr_cut/data/mc_train/primary_microphone/si_tr/c2d/c2dc020c_ch1.wav c2dc020c ab

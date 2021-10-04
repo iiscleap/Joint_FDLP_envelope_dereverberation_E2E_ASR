@@ -1,0 +1,10 @@
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c0201_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c0201_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c0204_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c0204_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c0207_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c0207_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020a_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020a_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020d_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020d_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020g_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020g_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020j_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020j_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020m_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020m_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020p_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020p_ch1.fea 16000
+/home/data/REVERB/export/corpora5/REVERB_2014/REVERB/REVERB_WSJCAM0_et/data/far_test/primary_microphone/si_et_1/c30/c30c020s_ch1.wav /home/anirudhs/tmp/ENV_DNN/REVERB_ENV_DNN/TEST/c30c020s_ch1.fea 16000

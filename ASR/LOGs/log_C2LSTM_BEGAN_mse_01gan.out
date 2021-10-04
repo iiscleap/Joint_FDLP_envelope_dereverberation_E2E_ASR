@@ -1,0 +1,9 @@
+Stage 2 Completed
+dictionary: data/lang_1char/Train_cleaned_tr90_units.txt
+Stage 3 Completed
+Stage 4 completed
+Stage 5 completed
+index, memory.used [MiB] 0, 3295 MiB 1, 10 MiB
+using gpu 1
+[STAGE 6]: Network Training
+Stage 6 completed
